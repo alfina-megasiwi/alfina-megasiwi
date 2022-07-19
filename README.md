@@ -6,7 +6,7 @@
 - Linkedin: https://linkedin.com/in/alfina-megasiwi <br>
 - Medium: https://medium.com/@alfnms <br>
 
-![Alt Text](https://media.giphy.com/media/JWvlA6ZAY4XHMEzAby/giphy.gif)
+<img src="https://media.giphy.com/media/JWvlA6ZAY4XHMEzAby/giphy.gif" width="250" height="250"/>
 
 <!---
 alfina-megasiwi/alfina-megasiwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
