@@ -1,6 +1,6 @@
-👋 Hi, I’m Alfina Megasiwi <br>
-👀 I’m interested in software engineering, web development, and UI/UX <br>
-🌱 I’m currently focused on learning new tools (Laravel, Vue, Go, Flutter, Socket.IO) and creating a good user experience website from all aspects (both backend and frontend) <br>
+👋 Hi, I’m Alfina Megasiwi. <br>
+👀 My area of interest lies in software engineering, web development, and UI/UX design. <br>
+🌱 Currently focused to acquire proficiency in novel technologies and leverage them to design a website and mobile app that delivers a superior user experience, encompassing both backend and frontend aspects. <br>
 - Email: alfina.megasiwi@ui.ac.id <br>
 - Gitlab: https://gitlab.cs.ui.ac.id/alfina.megasiwi <br>
 - Linkedin: https://linkedin.com/in/alfina-megasiwi <br>
