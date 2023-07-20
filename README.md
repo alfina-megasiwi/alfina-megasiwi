@@ -1,5 +1,5 @@
 👋 Hi, I’m Alfina Megasiwi. <br>
-👀 My area of interest lies in software engineering, web development, and UI/UX design. <br>
+👀 My area of interest lies in software engineering, web development, and mobile development. <br>
 🌱 Currently focused to acquire proficiency in novel technologies and leverage them to design a website and mobile app that delivers a superior user experience, encompassing both backend and frontend aspects. <br>
 - Email: alfina.megasiwi@ui.ac.id <br>
 - Gitlab: https://gitlab.cs.ui.ac.id/alfina.megasiwi <br>
